@@ -1,6 +1,6 @@
 #!usr/bin/env python
 # -*- coding: utf-8 -*-
-# Author: Lean_Guann
+# Author: Lean_Guan
 
 import re
 import time
